@@ -1,8 +1,8 @@
-# Python Learning by hztaxx 
+# Python Learning Journey 
  
-Start date: 2025/12/03 周三 
+## Directory Structure 
  
-## Daily Practice 
-- Learn Python basics 
-- Code every day 
-- Build projects 
+- basics/ - 基础语法练习 
+- exercises/ - 算法练习题 
+- projects/ - 实战项目 
+ 
